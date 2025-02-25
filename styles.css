@@ -1,4 +1,256 @@
 body {text-align: center; background: white; padding: 0 10% 0 10%}
 
 body {background-color: black;}
+
+
+.glob3{
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto}
     
+.fuckyou{
+    display: block;
+    position: absolute;
+    top: 53%;
+    left: 40%;
+    width: 160px;
+    height: 110px;
+    margin: -60px 0 0 -280px;     
+}
+.fuckyou:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou2{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 190px;
+    height: 140px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou2:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou3{
+    display: block;
+    position: absolute;
+    top: 15%;
+    left: 33%;
+    width: 200px;
+    height: 300px;
+    margin: -60px 0 0 -280px;
+}
+.fuckyou3:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou4{
+    position: absolute;
+  top: 0;
+  right: 0;
+  width: 400px;
+  height: 140px;
+  margin: 0;
+  padding: 0;
+}
+
+.fuckyou5{
+    position: absolute;
+  top: 70;
+  right: 50;
+  width: 230px;
+  height: 140px;
+  margin: 0;
+  padding: 0;
+}
+.fuckyou5:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+    
+    .fuckyou6{
+    display: block;
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    width: 300px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+.fuckyou6:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou7{
+    display: block;
+    position: absolute;
+    top: 23%;
+    left: 94%;
+    width: 50px;
+    height: 50px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou7:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou8{
+    display: block;
+    position: absolute;
+    top: 40%;
+    left: 110%;
+    width: 150px;
+    height: 208px;
+    margin: -60px 0 0 -280px;
+}
+.fuckyou8:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+
+.fuckyou9{
+    display: block;
+    position: absolute;
+    top: 15%;
+    left: 65%;
+    width: 100px;
+    height: 100px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou9:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou10{
+    display: block;
+    position: absolute;
+    top: 97%;
+    left: 60%;
+    width: 150px;
+    height: 100px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou10:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou10{
+    display: block;
+    position: absolute;
+    top: 97%;
+    left: 60%;
+    width: 150px;
+    height: 100px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou10:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou11{
+    display: block;
+    position: absolute;
+    top: 87%;
+    left: 96%;
+    width: 190px;
+    height: 140px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou11:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou12{
+    display: block;
+    position: absolute;
+    top: 67%;
+    left: 93%;
+    width: 230px;
+    height: 100px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou12:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou13{
+    display: block;
+    position: absolute;
+    top: 25%;
+    left: 90%;
+    width: 175px;
+    height: 250px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou13:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou14{
+    display: block;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    width: 175px;
+    height: 200px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou14:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou15{
+    display: block;
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    width: 175px;
+    height: 120px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou15:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou16{
+    display: block;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    width: 120px;
+    height: 160px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou16:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou17{
+    display: block;
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    width: 180px;
+    height: 120px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou17:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
+
+.fuckyou18{
+    display: block;
+    position: absolute;
+    top: 13%;
+    left: 80%;
+    width: 100px;
+    height: 170px;
+    margin: -60px 0 0 -280px;      
+}
+.fuckyou18:hover{
+    -webkit-transform: scale(130%) translateZ(0);
+}
