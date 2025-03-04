@@ -257,3 +257,8 @@ body {background-color: black;}
 .fuckyou18:hover{
     -webkit-transform: scale(130%) translateZ(0);
 }
+
+.link{
+    position: absolute;
+    height: 500px;    
+}
